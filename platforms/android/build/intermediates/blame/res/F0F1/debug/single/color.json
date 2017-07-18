@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\done_text_color_dark.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\nativescript-datetimepicker-release\\res\\color\\done_text_color_dark.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\date_picker_year_selector.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\nativescript-datetimepicker-release\\res\\color\\date_picker_year_selector.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\date_picker_selector.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\nativescript-datetimepicker-release\\res\\color\\date_picker_selector.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\done_text_color.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\nativescript-datetimepicker-release\\res\\color\\done_text_color.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\dev\\apps\\ucab\\Sqlproject\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    }
+]

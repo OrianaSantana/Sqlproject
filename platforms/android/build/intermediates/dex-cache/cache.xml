@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\internal_impl-23.4.0_f00e40e876e1f5e660f1b3d4b489b192d7dad638.jar" />
+    </item>
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-23.4.0_86b2b64f5f9f5acf00c80ed0dbf3838f5b6c8d85.jar" />
+    </item>
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-23.4.0_8a83961f590ee58c3d30c021e6255709b9a0ff72.jar" />
+    </item>
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-23.4.0_6955bab529c1d749bc0e70640756484fa2b4716f.jar" />
+    </item>
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-23.4.0_5479d60bf9252beb95d1c5816f572cb86ce7fcc1.jar" />
+    </item>
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\Sqlproject\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\Sqlproject-runtime-unspecified_5106378e9308a40b2e602bbe07c93a8bdaeadd83.jar" />
+    </item>
+    <item
+        jar="C:\dev\tools\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-23.4.0_70cfcb9794b92dafe551d01fac022ad072a6355a.jar" />
+    </item>
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\Sqlproject\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_345f3a584625ded4f04312193ece2a68a7e219ea.jar" />
+    </item>
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\nativescript-datetimepicker-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="22aa6b0b972ca84690e9f1935262359c00c14c43">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-nativescript-datetimepicker-release_383d84d59a524d078b96f9c5bdafa10836a453df.jar" />
+    </item>
+    <item
+        jar="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="C:\dev\apps\ucab\Sqlproject\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_f2bbe4964b99254dd20fdc1346162f914166e6fa.jar" />
+    </item>
+
+</items>

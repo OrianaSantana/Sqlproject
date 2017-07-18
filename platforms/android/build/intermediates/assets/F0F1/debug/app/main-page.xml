@@ -1,0 +1,24 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+<ScrollView>
+    <StackLayout>
+        <Label text="UCABsistencia" class="tittle"/>
+        <Label text="Lugar" class="Label"/>
+        <TextField  id="lugarListPicker" tap="{{ tapLugar }}" text="{{ messageEdificio }}" hint="Seleccione Edificio" editable="false" class="Textb"/>
+        <Label text="Salón" class="Label"/>
+        <TextField id="salonListPicker" tap="{{ tapSalon }}" text="{{ messageSalon }}" hint="Seleccione Salón" editable="false" class="Textb"/>    
+        <Label text="Valores Campo Magnético" class="Label"/>       
+        <TextView id="textview" text="{{ messageview }}" editable="false" class="textarea" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible"/>
+        <Label text="Fecha"  class="Label"/>    
+        <TextField tap="{{ tapText }}" text= "{{ messagetext }}" hint="Seleccione Fecha" editable="false" id="datePicker" var="text_datePicker" class="Textb"/>     
+        <StackLayout orientation="horizontal">
+            <Button text="Iniciar" tap="{{ insert }}" />
+            <Button text="Limpiar" tap= "{{ limpiar }}"/>            
+        </StackLayout>
+        <Label text="Seleccione el intervalo de muestra de medidas" class="Label botones"/>
+        <Button text="Medir c/5Sec" id="Boton5Sec" tap="{{ onTap1 }}" class="buttonClass blue radius" />
+        <Button text="Medir c/2Sec" id="Boton2Sec" tap="{{ onTap2 }}" class="buttonClass red radius"/>
+        <Button text="Medir c/8Sec" id="Boton8Sec" tap="{{ onTap3 }}" class="buttonClass green radius" />
+    </StackLayout>
+    </ScrollView>
+</Page>
+
